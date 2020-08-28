@@ -48,3 +48,22 @@ body {
 	height: 100%;
 	width: 100%;
 }
+.box2 p {
+	  text-align: center;
+	  font-size: 51px;
+	  color: white;
+	  font-family: 'Lora', serif;
+	  text-transform: uppercase;
+}
+.header-text {
+	font-size: 18px;
+	text-align: center;
+	font-family: 'Lora', serif;
+}
+
+.box1-child1 p {
+	font-size: 14px;
+	text-align: center;
+	color: white;
+	font-family: 'Lora', serif;
+}
